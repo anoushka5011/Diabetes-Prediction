@@ -1,1 +1,1 @@
-# Diabetes-Prediction
+This study aimed towards learning whether there is any differential impact of age, Lifestyle, BMI and Waist to height ratio on the risk of Type 2 diabetes mellitus in males and females in Kolkata, using various machine learning models like Logistic Regression, Random Forest and Support Vector Classifier.
